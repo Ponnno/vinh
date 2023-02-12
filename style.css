@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-image: url("https://oir.mobi/uploads/posts/2021-03/1616430087_38-p-zadnii-fon-dlya-saita-44.jpg");
+}
+nav a{
+    background-color: #AED959;
+    text-align: center;
+    margin :10px;
+    padding: 10px;
+
+}
+nav a{
+    color: #E9E95F;
+    font-size: 20px; 
+    margin: 15px;
+    text-align: none;
+    border: 3px solid red;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+header b {
+    color: red;
+}
+header{
+    text-align: center;
+}
+header img{
+    width: 90px;
+    height: 70px;
+}
+
+header a{
+    text-align: none;
+    color: darkmagenta;
+}
+h1 {
+    color: gold;
+    text-align: center;
+    background-color: coral;
+    border:5px solid gold;
+    border-radius: 20px;
+}
+.pon {
+    font-family: cursive;
+}
+.ra {
+    font-family: cursive;
+}
+h2{
+    text-align: center;
+    border:5px solid #E9E95F;
+    border-radius: 10px;
+    font-size: 50px;
+    color: aqua;
+}
+footer{
+    border: 20px solid gold;
+    border-radius: 2px;
+}
